@@ -1,4 +1,4 @@
-# 🏓 Pong — Python & Pygame
+# Pong — Python & Pygame
 
 A classic two-player Pong game developed using **Python** and **Pygame**, featuring real-time paddle movement, ball physics, collision detection, and a competitive scoring system.
 
