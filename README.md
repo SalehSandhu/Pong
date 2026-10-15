@@ -133,7 +133,7 @@ Developing this project helped reinforce several important programming concepts:
 - **Collision Detection:** Implementing coordinate-based collision checks and velocity calculations.
 - **Code Organisation:** Separating rendering, movement, collision detection, and game logic into reusable functions.
 
-## 🔮 Future Improvements
+## Future Improvements
 
 Potential enhancements include:
 
