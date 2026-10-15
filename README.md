@@ -53,7 +53,7 @@ python -m pip install pygame
 Navigate to the folder containing the Python game script and execute:
 
 ```bash
-python <game_filename>.py
+python main.py
 ```
 
 Replace `<game_filename>` with the actual name of your Python file.
@@ -146,9 +146,11 @@ Potential enhancements include:
 
 ## Author
 
-**Saleh Sandhu**
+Saleh Sandhu Computer Science graduate, University of Westminster
 
-- GitHub: [@SalehSandhu](https://github.com/SalehSandhu)
+    GitHub: @SalehSandhu
+    Portfolio: salehsandhu.github.io/SalehPortfolio
+
 
 ---
 
